@@ -1,0 +1,14 @@
+NET "sseg<6>" LOC = T17;
+NET "sseg<5>" LOC = T18;
+NET "sseg<4>" LOC = U17;
+NET "sseg<3>" LOC = U18;
+NET "sseg<2>" LOC = M14;
+NET "sseg<1>" LOC = N14;
+NET "sseg<0>" LOC = L14;
+
+NET "start_timer" LOC = T9;
+NET "restart" LOC = V9;
+NET "clk" LOC = V10;
+NET "t_expired" LOC = V16;
+NET "peso_excesivo" LOC = M8;
+NET "bloqueo_activado" LOC = N8;
